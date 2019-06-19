@@ -1,2 +1,2 @@
 # ROOT
-ROOT analysis code for NuWro simulation data
+ROOT, Python analysis codes for NuWro simulation data
